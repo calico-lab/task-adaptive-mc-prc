@@ -44,3 +44,7 @@ These scripts read the stored results in `data` and write `numbers.tex`, `tables
 `manuscript`, which is created on the first run. The searches and analyses can be rerun with the scripts in `code`, as
 stated in their headers; the stored results were computed with single-threaded numerics, and multithreaded linear algebra
 can change the last digits of re-evaluated values.
+
+## License
+
+The contents of this repository are released under the MIT License (see `LICENSE`).
